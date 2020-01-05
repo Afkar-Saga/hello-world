@@ -1,2 +1,6 @@
 # hello-world
-GitHub Tutorial
+
+Hi People!
+
+Afkar here, little student from Indonesia.
+Starting GitHub to learn Web Development
